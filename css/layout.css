@@ -655,7 +655,7 @@ ul#nav li a:hover { color: #ed3837; }
 }
 .popup-modal .description-box p {
 	font: 14px/24px 'opensans-regular', sans-serif;
-   color: #A1A1A1;
+   color: #383737;
    margin-bottom: 12px;
 }
 .popup-modal .description-box .categories {
@@ -681,8 +681,8 @@ ul#nav li a:hover { color: #ed3837; }
    letter-spacing: 3px;
    cursor: pointer;
 }
-.popup-modal a:hover {	color: #00CCCC; }
-.popup-modal a.popup-modal-dismiss { margin-left: 24px; }
+.popup-modal a:hover {	color: #ec3837; }
+.popup-modal a.popup-modal-dismiss-portfolio { margin-left: 24px; }
 
 
 /* fadein/fadeout effect for modal popup

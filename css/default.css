@@ -298,6 +298,14 @@ a, a:visited {
 a:hover, a:focus { color: #313131; }
 p a, p a:visited { line-height: inherit; }
 
+.modala {
+  color: #ed3837 !important;
+}
+
+.modala:hover {
+  color: #000 !important;
+}
+
 
 /*  4. List  --------------------------------------------------------- */
 
